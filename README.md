@@ -8,7 +8,7 @@ There are actually two sets of commands for video composition:
 For more details about the commands refer to the [documentation](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce96/collaboration-endpoint-software-api-reference-guide-ce96.pdf).
 
 You can see the example in action here:  
-![YouTube](CodecProImageComposition.png)  
+[![YouTube](CodecProImageComposition.png)](https://youtu.be/fKuViiEQwYg)
 
 ## In Room Control Widgets
 [roomcontrolconfig_en.xml](./roomcontrolconfig_en.xml) file can be uploaded to a codec's In-Room Control Editor (Integration->In-Room Control, Launch Editor).  
